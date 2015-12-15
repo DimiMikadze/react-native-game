@@ -21,21 +21,21 @@ git clone https://github.com/DimitriMikadze/react-native-game.git
 Install dependencies for server
 
 ````
-cd guessfamouspeople/server
+cd react-native-game/server
 npm install
 ````
 
 Install dependecies for react native
 
 ````
-cd guessfamouspeople/mobile
+cd react-native-game/mobile
 npm install
 ````
 
 ## Node Rest Api
 
 ````
-cd guessfamouspeople/server
+cd react-native-game/server
 node server.js
 ````
 
@@ -48,13 +48,13 @@ node server.js
 ## IOS
 
 ````
-Open guessfamouspeople.xcodeproj in XCode
+Open react-native-game.xcodeproj in XCode
 ````
 
 ## Android
 
 ````
-navigate to guessfamouspeople/mobile
+navigate to react-native-game/mobile
 react-native run-android
 
 When debugging on android use 10.0.3.2 instead of localhost in utils/api.js
