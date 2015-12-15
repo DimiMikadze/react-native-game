@@ -1,14 +1,15 @@
 {
-  "name": "dm",
+  "name": "Guess Famous People",
   "version": "1.0.0",
-  "description": "Dimitri Mikadze Personal Website",
+  "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "keywords": [
-    "famous",
-    "people"
+    "Guess",
+    "Famous",
+    "People"
   ],
   "author": "Dimitri Mikadze",
   "license": "ISC",
