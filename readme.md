@@ -41,9 +41,9 @@ node server.js
 
 ## React Native Requirements and Getting Started
 
-[Requirements and Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
+<a href="https://facebook.github.io/react-native/docs/getting-started.html" target="_blank">Requirements and Getting Started</a>
 
-[Android Setup] (https://facebook.github.io/react-native/docs/android-setup.html)
+<a href="https://facebook.github.io/react-native/docs/android-setup.html" target="_blank">Android Setup</a>
 
 ## IOS
 
