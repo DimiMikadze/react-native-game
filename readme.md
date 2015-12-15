@@ -5,10 +5,10 @@ This project shows how the code can be architectured to run on IOS and Android w
 
 ## Screenshots
 
-<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/demo_images/Start.jpg" width="200">
-<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/demo_images/Choose.jpg" width="200">
-<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/demo_images/Game.jpg" width="200">
-<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/demo_images/Finish.jpg" width="200">
+<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/screenshots/Start.jpg" width="200">
+<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/screenshots/Choose.jpg" width="200">
+<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/screenshots/Game.jpg" width="200">
+<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/screenshots/Finish.jpg" width="200">
 
 ## Getting Started
 
