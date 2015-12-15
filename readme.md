@@ -51,9 +51,20 @@ node server.js
 Open guessfamouspeople.xcodeproj in XCode
 ````
 
-## Adnroid
+## Android
 
 ````
 navigate to guessfamouspeople/mobile
 react-native run-android
+
+When debugging on android use 10.0.3.2 instead of localhost in utils/api.js
+
 ````
+
+## Contributing
+
+contributions are more than welcome!
+
+## License
+
+See license.txt
