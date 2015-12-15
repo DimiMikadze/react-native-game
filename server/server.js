@@ -7,13 +7,6 @@ app.set('port', (process.env.PORT || 3000));
 
 app.use('/images/', express.static(path.join(__dirname, 'images')));
 
-app.all('/*', function(req, res, next) {
-    res.header("Access-Control-Allow-Origin", "*");
-    res.header("Access-Control-Allow-Headers", "content-Type, X-Requested-With");
-    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
-    next();
-});
-
 app.get('/api/:data', function(req, res) {
 
     var file = path.join(__dirname, 'questions/' + req.params.data + '.json');
