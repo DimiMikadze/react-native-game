@@ -5,17 +5,17 @@ This project shows how the code can be architectured to run on IOS and Android w
 
 ## Screenshots
 
-<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/server/images/screenshots/Start.jpg" width="200">
-<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/server/images/screenshots/Choose.jpg" width="200">
-<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/server/images/screenshots/Game.jpg" width="200">
-<img src="https://github.com/DimitriMikadze/react-native-game/blob/master/server/images/screenshots/Finish.jpg" width="200">
+<img src="https://github.com/DimiMikadze/react-native-game/blob/master/server/images/screenshots/Start.jpg" width="200">
+<img src="https://github.com/DimiMikadze/react-native-game/blob/master/server/images/screenshots/Choose.jpg" width="200">
+<img src="https://github.com/DimiMikadze/react-native-game/blob/master/server/images/screenshots/Game.jpg" width="200">
+<img src="https://github.com/DimiMikadze/react-native-game/blob/master/server/images/screenshots/Finish.jpg" width="200">
 
 ## Getting Started
 
 Clone Repo
 
 ````
-git clone https://github.com/DimitriMikadze/react-native-game.git
+git clone https://github.com/DimiMikadze/react-native-game.git
 ````
 
 Install dependencies for server
